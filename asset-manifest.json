@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todo-1/static/css/main.bf49369f.css",
+    "main.js": "/todo-1/static/js/main.d446e7f3.js",
+    "static/js/787.8eb42f38.chunk.js": "/todo-1/static/js/787.8eb42f38.chunk.js",
+    "static/media/baloopaaji2-regular-webfont.woff": "/todo-1/static/media/baloopaaji2-regular-webfont.6ee69e188829bb6058e9.woff",
+    "static/media/baloopaaji2-regular-webfont.woff2": "/todo-1/static/media/baloopaaji2-regular-webfont.02d4c6e5ab2a27544ab2.woff2",
+    "static/media/delete.svg": "/todo-1/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "static/media/revert.svg": "/todo-1/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "index.html": "/todo-1/index.html",
+    "static/media/plus.svg": "/todo-1/static/media/plus.19bbb341fb5456e964a1.svg",
+    "static/media/tick-green.svg": "/todo-1/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.bf49369f.css.map": "/todo-1/static/css/main.bf49369f.css.map",
+    "main.d446e7f3.js.map": "/todo-1/static/js/main.d446e7f3.js.map",
+    "787.8eb42f38.chunk.js.map": "/todo-1/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf49369f.css",
+    "static/js/main.d446e7f3.js"
+  ]
+}
